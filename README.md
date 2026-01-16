@@ -50,7 +50,7 @@ Time-series analysis using weekly and quarterly trends
 Interactive slicers for dynamic filtering and exploration
 
 → Dashboard Preview
-https://github.com/Fathir-007/your-repo-name/blob/main/Dashboard.png?raw=true
+https://github.com/Fathir-007/SalesPerformanceAnalysisDashboard/blob/main/Overview.png?raw=true
 
 → Dataset
 Public food delivery sales dataset (Swiggy-style data, modified for analysis)
